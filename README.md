@@ -8,7 +8,7 @@
 
 ## Notes:
 
-* This presenation presents CogNETive, a new visual communication debugger for cloud DevOps engineers provides step-by-step path traversal to pinpoint failures with lightning speed! . More details on Skydive can be found in [this link](https://cognetive.sl.haifa.il.ibm.com/)
+* This presenation describes CogNETive, a new visual communication debugger for cloud DevOps engineers provides step-by-step path traversal to pinpoint failures with lightning speed! . More details on Skydive can be found in [this link](https://cognetive.sl.haifa.il.ibm.com/)
 
 
 
